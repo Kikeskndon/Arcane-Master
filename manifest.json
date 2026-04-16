@@ -1,0 +1,18 @@
+{
+  "name": "Sovereign Architect: Master Brain",
+  "short_name": "Sovereign",
+  "description": "Sistema de Auditoría Cognitiva y Análisis Arcano",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A0A0A",
+  "theme_color": "#C9A227",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/103/103175.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
